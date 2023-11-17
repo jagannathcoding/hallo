@@ -19,33 +19,33 @@ let countdown;
 const quizArray = [
     {
         id: "0",
-        question: "Which is the most widely spoken language in the world?",
-        options: ["Spanish", "Mandarin", "English", "Bengali"],
-        correct: "Mandarin",
+        question: "Who is the author of Feluda??",
+        options: ["Satyajit Ray", "Saradindu Bandapadhyay", "Sunil Gangapadhyay", "Suchitra Bhattacharya"],
+        correct: "Satyajit Ray",
     },
     {
         id: "1",
-        question: "Which is the only continent in the world without a desert?",
-        options: ["North America", "Asia", "Africa", "Europe"],
-        correct: "Europe",
+        question: "Which is the largest library in the world",
+        options: ["British Library", "National Library", "Russian State Library", "University of California Libraries"],
+        correct: "British Library",
     },
     {
         id: "2",
-        question: "Who invented Computer?",
-        options: ["Charles Babbage", "Henry Luce", "Henry Babbage", "Charles Luce"],
-        correct: "Charles Babbage",
+        question: "Who is the author of first detective story",
+        options: ["Edgar Allan Poe", "Agatha Christie", "Sir Arthur Conan Doyle", "Oscar Wilde"],
+        correct: "Edgar Allan Poe",
     },
     {
         id: "3",
-        question: "What do you call a computer on a network that requests files from another computer?",
-        options: ["A client", "A host", "A router", "A web server"],
-        correct: "A client",
+        question: "Who is the author of Kaler Mondira",
+        options: ["Satyajit Ray", "Saradindu Bandapadhyay", "Sunil Gangapadhyay", "Suchitra Bhattacharya"],
+        correct: "Saradindu Bandapadhyay",
     },
     {
         id: "4",
-        question: "Hardware devices that are not part of the main computer system and are often added later to the system.",
-        options: ["Peripheral", "Clip art", "Highlight", "Execute"],
-        correct: "Peripheral",
+        question: "Who is the author of Purbo Poschim",
+        options: ["Satyajit Ray", "Saradindu Bandapadhyay", "Sunil Gangapadhyay", "Suchitra Bhattacharya"],
+        correct: "Sunil Gangapadhyay",
     },
     
 ];
